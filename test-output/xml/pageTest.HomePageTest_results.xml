@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright_framework_POM"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.757">
+    <properties></properties>
+
+
+
+            <testcase
+                name="search"
+                time="1.727"
+                classname="pageTest.HomePageTest">
+            </testcase>
+            <testcase
+                name="HomePageTitleTest"
+                time="0.030"
+                classname="pageTest.HomePageTest">
+            </testcase>
+</testsuite>

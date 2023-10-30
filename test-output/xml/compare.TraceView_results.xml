@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright_framework_POM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.952">
+    <properties></properties>
+
+
+
+            <testcase
+                name="trace"
+                time="13.952"
+                classname="compare.TraceView">
+            </testcase>
+</testsuite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright_framework_POM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="26.281">
+    <properties></properties>
+
+
+
+            <testcase
+                name="select4_Select1_having_same_School_ID_But_Different_Result"
+                time="26.281"
+                classname="compare.SelectFromDropDown">
+            </testcase>
+</testsuite>

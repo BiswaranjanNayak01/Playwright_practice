@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright_framework_POM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.407">
+    <properties></properties>
+
+
+
+            <testcase
+                name="withURL"
+                time="10.407"
+                classname="compare.PauseOption_Codegen">
+            </testcase>
+</testsuite>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright_framework_POM"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="25.250">
+    <properties></properties>
+
+
+
+            <testcase
+                name="multipleFileUpload"
+                time="2.758"
+                classname="compare.FileUpload">
+            </testcase>
+            <testcase
+                name="upload"
+                time="6.193"
+                classname="compare.FileUpload">
+            </testcase>
+            <testcase
+                name="upload1"
+                time="16.299"
+                classname="compare.FileUpload">
+            </testcase>
+</testsuite>

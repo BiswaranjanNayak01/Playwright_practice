@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Playwright_framework_POM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.399">
+    <properties></properties>
+
+
+
+            <testcase
+                name="recordVideo"
+                time="7.399"
+                classname="compare.RecordVideo">
+            </testcase>
+</testsuite>

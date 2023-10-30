@@ -1,0 +1,14 @@
+<suite name="suite running biswa">
+
+    <test name="test runing biswa">
+        <classes>
+            <class name="pageTest.HomePageTest"/>
+            <class name="pageTest.LoginPageTest"/>
+        </classes>
+    </test>
+    <test name="test2 runing biswa">
+        <classes>
+            <class name="pageTest.LoginPageTest"/>
+        </classes>
+    </test>
+</suite>
